@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Hiroshi Kuze! 👋
 
-<!--
-**hiroshikuze/hiroshikuze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+京都を拠点に、便利なツールやOSSを開発しています。
 
-Here are some ideas to get you started:
+I'm a developer based in Kyoto, creating handy tools and OSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💖 応援募集 (Support my work)
+
+このプロジェクトを応援していただける方は、ぜひスポンサーおよび寄付をお願いします！
+
+If you'd like to support my projects, please consider becoming a sponsor!
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/hiroshikuze)
+[![Amazon Wishlist](https://img.shields.io/badge/Amazon-Wishlist-orange?style=for-the-badge&logo=amazon)](https://www.amazon.jp/hz/wishlist/ls/5BAWD0LZ89V9?ref_=wl_share)
+
+---
+### 🛠 Recently working on...
+
+- [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker)
+- [Recipe Prompt Generator](https://github.com/hiroshikuze/recipe_prompt_generator)
