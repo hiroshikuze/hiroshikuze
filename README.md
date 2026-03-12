@@ -16,6 +16,7 @@ If you'd like to support my projects, please consider becoming a sponsor!
 ---
 ### 🛠 Recently working on...
 
+- [anniversary-cat-worker](https://github.com/hiroshikuze/anniversary-cat-worker)
 - [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker)
 - [Escape from the Tsunami](https://github.com/hiroshikuze/escape_from_tsunami_for_bing_chat)
 - [Recipe Prompt Generator](https://github.com/hiroshikuze/recipe_prompt_generator)
