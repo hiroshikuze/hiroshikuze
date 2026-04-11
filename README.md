@@ -18,14 +18,18 @@ If you'd like to support my projects, please consider becoming a sponsor!
 ---
 ### 🛠 Recently working on...
 
-- [anniversary-cat-worker](https://github.com/hiroshikuze/anniversary-cat-worker) — **Nyaniversary（にゃんにゃんと記念日）**
-  今日の記念日をGemini APIで調べ、その日にちなんだ水彩風の猫イラストを毎日生成するWebアプリ。日英両対応。
+- [Nyaniversary](https://github.com/hiroshikuze/anniversary-cat-worker) — **にゃんバーサリー**
+  AI-powered daily cat illustration generator inspired by today's anniversary.  
+  今日の記念日からその日にちなんだ水彩風の猫イラストを毎日生成するWebアプリ。
 
 - [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker) — **Hiro2フィードピッカー（RSSキュレーションツール）**
+  An AI-powered RSS curation tool for GAS and Google Sheets. Filters articles by keywords and delivers summaries to LINE.  
   Google Apps Script × Google Sheetsで動くRSSキュレーションツール。キーワードでフィルタリングしたRSS記事をGemini AIで要約し、LINEに配信する。
 
-- [Escape from the Tsunami](https://github.com/hiroshikuze/escape_from_tsunami_for_bing_chat) — **津波から逃げろ（Bing Chat向けテキストアドベンチャー）**
-  Bing Chat向けのインタラクティブなテキストアドベンチャーゲーム。12ターン以内に主人公とパートナーを津波から安全な場所へ避難させる。好感度・生存スキルで結末が分岐する。
+- [Escape from the Tsunami](https://github.com/hiroshikuze/escape_from_tsunami_for_bing_chat) — **津波からの脱出：恋人との運命を決める選択（Bing Chat向けテキストアドベンチャー）**
+  This game is a text adventure game for Generation AI that escapes from earthquakes and tsunamis.  
+  生成AIをつかったインタラクティブなテキストアドベンチャーゲーム。12ターン以内に主人公とパートナーを津波から安全な場所へ避難させる。好感度・生存スキルで結末が分岐する。
 
-- [Recipe Prompt Generator](https://github.com/hiroshikuze/recipe_prompt_generator) — **レシピプロンプトジェネレーター**
+- [Recipe Prompt Generator](https://github.com/hiroshikuze/recipe_prompt_generator) — **まかないジェネレーター**
+  This tool suggests prompts to ask AI to generate cooking recipes.  
   調理器具・食材・好みを入力するだけで、AIサービス（Perplexityなど）向けに最適化されたレシピ生成プロンプトを自動作成するWebツール。日英両対応。
