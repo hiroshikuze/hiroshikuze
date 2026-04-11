@@ -18,7 +18,14 @@ If you'd like to support my projects, please consider becoming a sponsor!
 ---
 ### 🛠 Recently working on...
 
-- [anniversary-cat-worker](https://github.com/hiroshikuze/anniversary-cat-worker)
-- [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker)
-- [Escape from the Tsunami](https://github.com/hiroshikuze/escape_from_tsunami_for_bing_chat)
-- [Recipe Prompt Generator](https://github.com/hiroshikuze/recipe_prompt_generator)
+- [anniversary-cat-worker](https://github.com/hiroshikuze/anniversary-cat-worker) — **Nyaniversary（にゃんにゃんと記念日）**
+  今日の記念日をGemini APIで調べ、その日にちなんだ水彩風の猫イラストを毎日生成するWebアプリ。日英両対応。
+
+- [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker) — **Hiro2フィードピッカー（RSSキュレーションツール）**
+  Google Apps Script × Google Sheetsで動くRSSキュレーションツール。キーワードでフィルタリングしたRSS記事をGemini AIで要約し、LINEに配信する。
+
+- [Escape from the Tsunami](https://github.com/hiroshikuze/escape_from_tsunami_for_bing_chat) — **津波から逃げろ（Bing Chat向けテキストアドベンチャー）**
+  Bing Chat向けのインタラクティブなテキストアドベンチャーゲーム。12ターン以内に主人公とパートナーを津波から安全な場所へ避難させる。好感度・生存スキルで結末が分岐する。
+
+- [Recipe Prompt Generator](https://github.com/hiroshikuze/recipe_prompt_generator) — **レシピプロンプトジェネレーター**
+  調理器具・食材・好みを入力するだけで、AIサービス（Perplexityなど）向けに最適化されたレシピ生成プロンプトを自動作成するWebツール。日英両対応。

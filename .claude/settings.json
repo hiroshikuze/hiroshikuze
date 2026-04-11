@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=\"$CLAUDE_FILE_PATH\"; case \"$FILE\" in *.ts|*.tsx|*.js|*.jsx|*.json|*.css|*.md) prettier --write \"$FILE\" 2>/dev/null || true ;; *.py) black \"$FILE\" 2>/dev/null || true ;; esac"
+          }
+        ]
+      }
+    ]
+  }
+}
