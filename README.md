@@ -28,6 +28,7 @@ If you'd like to support my projects, please consider becoming a sponsor!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/hiroshikuze)
 [![Amazon Wishlist](https://img.shields.io/badge/Amazon-Wishlist-orange?style=for-the-badge&logo=amazon)](https://www.amazon.jp/hz/wishlist/ls/5BAWD0LZ89V9?ref_=wl_share)
+[![Suzuri 😺 Goods](https://img.shields.io/badge/Goods-SUZURI-ff6b6b?style=for-the-badge&logo=cart&logoColor=white)](https://suzuri.jp/nyanmusu)
 
 ---
 ### 🛠 Recently working on...
