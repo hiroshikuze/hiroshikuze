@@ -1,14 +1,21 @@
 # Hi there, I'm Hiroshi Kuze! 👋
 
 京都を拠点に、便利なツールやOSSを開発しています。
+
 本業はインフラエンジニア、副業(?)で個人Webアプリを運用中。
+
 AIエージェントに一次対応させて、開発にまわす時間を増やす試行錯誤をしています。
 
+
 I'm a developer based in Kyoto, creating handy tools and OSS.
+
 By day, an infrastructure engineer.
+
 By night, running my own web apps — trying to offload first-response work to AI agents so I can spend more time building.
 
+
 🐦 [hiroshikuze@x](https://x.com/hiroshikuze)
+
 🈳 [にゃんむす@bluesky](https://bsky.app/profile/nyanmusu.bsky.social)
 
 ## 💖 応援募集 (Support my work)
