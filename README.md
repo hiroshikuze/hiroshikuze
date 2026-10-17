@@ -33,7 +33,7 @@ If you'd like to support my projects, please consider becoming a sponsor!
 ---
 ### 🛠 Recently working on...
 
-- [Yobiko's Review](https://yobiko.kousaku.soy/) ([GitHub](https://github.com/hiroshikuze/yobiko))
+- [Yobiko's Review](https://yobiko.kousaku.soy/)
 - [anniversary-cat-worker](https://github.com/hiroshikuze/anniversary-cat-worker)
 - [Hiro2 Feed picker](https://github.com/hiroshikuze/Hiro2-Feed-Picker)
 - [Escape from the Tsunami](https://github.com/hiroshikuze/escape_from_tsunami_for_bing_chat)
